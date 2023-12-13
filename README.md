@@ -35,3 +35,8 @@ Protecting against phishing requires a combination of awareness and proactive me
 - **Use Multi-Factor Authentication (MFA)**: Implement MFA to add an extra layer of security, even if login credentials are compromised.
 
 - **Keep Software and Systems Updated**: Regularly update software and security systems to patch vulnerabilities and reduce the risk of exploitation.
+
+## ✨ Contributing
+Contributions are welcome! If you find any issues or want to add features, fork the repository and create a pull request.
+
+Feel free to reach out if you have any questions or need assistance. Happy coding with EmployeeXpress!
