@@ -39,4 +39,4 @@ Protecting against phishing requires a combination of awareness and proactive me
 ## ✨ Contributing
 Contributions are welcome! If you find any issues or want to add features, fork the repository and create a pull request.
 
-Feel free to reach out if you have any questions or need assistance. Happy coding with EmployeeXpress!
+Feel free to reach out if you have any questions or need assistance. Happy coding !
